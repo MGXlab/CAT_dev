@@ -1,3 +1,5 @@
+NOTE that CAT/BAT/RAT are now hosted on https://github.com/MGXlab/CAT_pack.
+
 # CAT, BAT, and RAT
 
 - [Introduction](#introduction)
