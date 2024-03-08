@@ -84,7 +84,7 @@ def run():
 
     with open(args.input_file, "r") as f1:
         for line in f1:
-            if line.startswith("#"):
+            if line.startswith("# "):
                 line = line[2:].rstrip().split("\t")
 
                 if "lineage" in line:
